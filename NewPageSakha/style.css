@@ -1,0 +1,96 @@
+
+/* Left Volume Img */
+#img-volume{
+    /* margin-left: 1340px; */
+    /* //text-align: left; */
+    height: 25px;
+    width: 25px;
+} 
+
+/* end */ 
+
+/* Customise name  */
+
+.top{
+    text-align: center;
+    font-size: 200%;
+    color: rgb(176, 148, 4);
+} 
+
+/* end  */
+
+
+/* End Part */
+.music{
+    height: 60px;
+    width: 100px;
+} 
+
+/* End */ 
+
+/* Sakha Name */
+.name{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 50px;
+    color: aliceblue;
+} 
+
+/* End */ 
+
+/* Place Holder */
+.text{
+    text-align: center;
+} 
+/* End */ 
+
+/* Logo */
+.logo{
+    height: 90px;
+    width: 100px;
+} 
+/* End */ 
+
+
+/* Ask Button */
+.btn-ask{
+    width: 75%;
+    font-size: 20px;
+} 
+/* End */ 
+
+/* Place Holder Text */
+.text-area{
+    width: 75%;
+    background-color: rgb(30, 28, 28);
+    color: rgb(255, 255, 255);
+} 
+/* End */ 
+
+/* Team Sakha */
+.lower-text{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    color: rgb(64, 63, 59);
+} 
+/* End */
+
+/*  FAQ Part */
+.btn-col{
+    color: aliceblue;
+} 
+/* end */ 
+
+/* Top Images */ 
+/* .left{
+    margin-left: 10%;
+    height: 30%; 
+    width: 30%;
+} 
+.right{
+   margin-left:60% ;
+    height: 30%;
+    width: 30%;
+    margin-top: 0px;
+} */
